@@ -48,6 +48,8 @@ output f2;
 assign f2=((~y&z)|(x&y)|(w&y));
 endmodule
 ```
+
+
 ## Truth Table :
 ![image](https://github.com/user-attachments/assets/6870b772-1964-4a81-8652-e8a48f3de10d)
 ![image](https://github.com/user-attachments/assets/66f3bff8-1d7d-41df-84e1-2449b4c84db2)
